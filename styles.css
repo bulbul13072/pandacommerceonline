@@ -37,3 +37,21 @@
 .categories img{
     width: 100px;
 }
+.card{
+    border: none;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h1{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
